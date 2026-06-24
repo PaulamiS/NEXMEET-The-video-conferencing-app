@@ -18,6 +18,10 @@ Whether for online classes, team meetings, interviews, or virtual collaboration,
 
 ---
 
+live link :https://nexmeet-the-video-conferencing-app-1.onrender.com/
+<img width="1341" height="615" alt="image" src="https://github.com/user-attachments/assets/3091881e-8b3a-4baf-956d-66d253a4f777" />
+
+
 ## ✨ Features
 
 - 🎥 Real-time video conferencing
@@ -241,14 +245,7 @@ git push origin feature-name
 
 - GitHub: https://github.com/PaulamiS
 
----
 
-## ⭐ Support
 
-If you found this project useful, please consider giving it a star ⭐ on GitHub.
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License.
