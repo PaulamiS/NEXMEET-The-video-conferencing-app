@@ -96,8 +96,7 @@ NEXMEET
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/NEXMEET.git
-cd NEXMEET
+git clone https://github.com/PaulamiS/NEXMEET-The-video-conferencing-app.git
 ```
 
 ### Install Frontend Dependencies
